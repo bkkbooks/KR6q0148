@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0148_000-X.yaml, hash: 'sha256:6ffda27fae922a1059f5ef2bd9f720eddbb4567c025db154654ec1353e8647d2'}
+  - {seq: 0, filename: KR6q0148_000-X.yaml, hash: 'sha256:d29c26d799b6c7a82b4c38ee07b2d406a6b52aa66fb468b867fadee9e1f36a10'}
   - {seq: 1, filename: KR6q0148_001-X.yaml, hash: 'sha256:d0307e14190e2127197ad0c5ac9463f486413d4e13be088e77d9ce21b7e1760b'}
   - {seq: 2, filename: KR6q0148_002-X.yaml, hash: 'sha256:74a9a2dcf423e83caaf7c8f74840afbb133b6a73040a3dbb9cad477d062fa2b0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0148_000-X.markers.yaml, hash: 'sha256:5e61ae30921536e7d7bf181a23236685dc88a0555027f98ef30ae50b7842e19a'}
+  - {seq: 0, role: markers, filename: assets/KR6q0148_000-X.markers.yaml, hash: 'sha256:a5d89dcee5a054edc99e4edb093c97ce125af231e2fd9fdff5a816c42641c5be'}
   - {seq: 1, role: markers, filename: assets/KR6q0148_001-X.markers.yaml, hash: 'sha256:0d340acef67eca2a41b88a6070421fd2341b47c7f372d46c85f0415e1b183796'}
   - {seq: 2, role: markers, filename: assets/KR6q0148_002-X.markers.yaml, hash: 'sha256:7af26a3243fd657d430b07671298a6888cb593dd28e7b6dd6e899f526a2373d7'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0148_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1257-A 博山警語序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0148_X_000-mulu-2
     span:
-    - front
+    - body
     - 980
     - 980
   label: 博山和尚參禪警語目次
@@ -237,4 +237,4 @@ table_of_contents:
   label: 示參禪偈十首
   type: mulu
   level: 1
-hash: sha256:b988e7d758aa95063a941460dec65876d3c60dd0684d08e2e213c717996a04b0
+hash: sha256:9e755758a5b0eff6148673405cd6c06d205d6806704ebe8179a95f60212c1d08
